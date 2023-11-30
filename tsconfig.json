@@ -1,0 +1,3 @@
+{
+  "extends": "@cartology/typescript-config/base.json"
+}

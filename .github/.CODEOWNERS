@@ -1,0 +1,13 @@
+# This CODEOWNERS file specifies the code owners for the repository.
+
+# Default code owners for all files
+
+- @cartologyau/prod-eng-owners
+
+# Code owners for files in the terraform directory
+
+terraform/\* @cartologyau/srops
+
+# Additional code owners for specific files
+
+/\* @cartologyau/prod-eng
