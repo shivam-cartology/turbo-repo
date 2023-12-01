@@ -19,7 +19,7 @@ export function Card({
       <h2>
         {title} <span>-&gt;</span>
       </h2>
-      <h1>This is a changed Card file</h1>
+      <h1>This is a Card </h1>
       <p>{children}</p>
     </a>
   );
